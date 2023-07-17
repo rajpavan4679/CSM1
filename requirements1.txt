@@ -1,0 +1,10 @@
+fastapi
+jinja2
+tensorflow
+matplotlib
+urllib3
+uvicorn
+python-multipart
+opencv-python
+transformers
+torch
